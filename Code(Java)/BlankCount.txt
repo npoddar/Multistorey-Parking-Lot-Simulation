@@ -1,0 +1,10 @@
+Destination : 4,6.
+Blank : 5,7.
+Can't find path. Size of blanks :2
+Start : 4,7.
+Status of cell start 1
+Destination : 4,6.
+Blank : 3,7.
+Can't find path. Size of blanks :2
+Start : 4,7.
+Status of cell start 1
